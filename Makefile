@@ -71,10 +71,10 @@ IMAGES = $(PROJECT_NAME)
 # ====================================================================================
 # Setup XPKG
 
-XPKG_REG_ORGS ?= xpkg.upbound.io//ashakhba-org
+XPKG_REG_ORGS ?= xpkg.upbound.io/ashakhba-org
 # NOTE(hasheddan): skip promoting on xpkg.upbound.io as channel tags are
 # inferred.
-XPKG_REG_ORGS_NO_PROMOTE ?= xpkg.upbound.io//ashakhba-org
+XPKG_REG_ORGS_NO_PROMOTE ?= xpkg.upbound.io/ashakhba-org
 XPKGS = $(PROJECT_NAME)
 -include build/makelib/xpkg.mk
 
