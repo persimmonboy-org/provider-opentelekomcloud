@@ -1,4 +1,3 @@
-# ====================================================================================
 # Setup Project
 
 PROJECT_NAME ?= provider-opentelekomcloud
