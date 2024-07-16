@@ -23,8 +23,8 @@ import (
 	"github.com/crossplane/upjet/pkg/terraform"
 	ctrl "sigs.k8s.io/controller-runtime"
 
-	v1alpha1 "github.com/opentelekomcloud/provider-opentelekomcloud/apis/compute/v1alpha1"
-	features "github.com/opentelekomcloud/provider-opentelekomcloud/internal/features"
+	v1alpha1 "github.com/persimmonboy-org/provider-opentelekomcloud/apis/compute/v1alpha1"
+	features "github.com/persimmonboy-org/provider-opentelekomcloud/internal/features"
 )
 
 // Setup adds a controller that reconciles KeypairV2 managed resources.

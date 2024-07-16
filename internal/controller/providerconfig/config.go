@@ -9,7 +9,7 @@ import (
 	"github.com/crossplane/crossplane-runtime/pkg/reconciler/providerconfig"
 	"github.com/crossplane/crossplane-runtime/pkg/resource"
 	"github.com/crossplane/upjet/pkg/controller"
-	"github.com/opentelekomcloud/provider-opentelekomcloud/apis/v1beta1"
+	"github.com/persimmonboy-org/provider-opentelekomcloud/apis/v1beta1"
 	ctrl "sigs.k8s.io/controller-runtime"
 )
 

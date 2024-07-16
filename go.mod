@@ -1,4 +1,4 @@
-module github.com/opentelekomcloud/provider-opentelekomcloud
+module github.com/persimmonboy-org/provider-opentelekomcloud
 
 go 1.19
 

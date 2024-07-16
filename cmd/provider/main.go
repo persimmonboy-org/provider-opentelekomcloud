@@ -26,12 +26,12 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/cache"
 	"sigs.k8s.io/controller-runtime/pkg/log/zap"
 
-	"github.com/opentelekomcloud/provider-opentelekomcloud/apis"
-	"github.com/opentelekomcloud/provider-opentelekomcloud/apis/v1alpha1"
-	"github.com/opentelekomcloud/provider-opentelekomcloud/config"
-	"github.com/opentelekomcloud/provider-opentelekomcloud/internal/clients"
-	"github.com/opentelekomcloud/provider-opentelekomcloud/internal/controller"
-	"github.com/opentelekomcloud/provider-opentelekomcloud/internal/features"
+	"github.com/persimmonboy-org/provider-opentelekomcloud/apis"
+	"github.com/persimmonboy-org/provider-opentelekomcloud/apis/v1alpha1"
+	"github.com/persimmonboy-org/provider-opentelekomcloud/config"
+	"github.com/persimmonboy-org/provider-opentelekomcloud/internal/clients"
+	"github.com/persimmonboy-org/provider-opentelekomcloud/internal/controller"
+	"github.com/persimmonboy-org/provider-opentelekomcloud/internal/features"
 )
 
 func main() {

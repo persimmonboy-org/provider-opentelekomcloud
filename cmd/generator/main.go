@@ -11,7 +11,7 @@ import (
 
 	"github.com/crossplane/upjet/pkg/pipeline"
 
-	"github.com/opentelekomcloud/provider-opentelekomcloud/config"
+	"github.com/persimmonboy-org/provider-opentelekomcloud/config"
 )
 
 func main() {

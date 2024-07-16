@@ -15,7 +15,7 @@ import (
 
 	"github.com/crossplane/upjet/pkg/terraform"
 
-	"github.com/opentelekomcloud/provider-opentelekomcloud/apis/v1beta1"
+	"github.com/persimmonboy-org/provider-opentelekomcloud/apis/v1beta1"
 )
 
 const (
