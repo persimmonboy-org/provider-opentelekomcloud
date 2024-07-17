@@ -1,9 +1,4 @@
 # Setup Project
-# Setup Project
-# Setup Project
-# Setup Project
-# Setup Project
-# Setup Project
 
 PROJECT_NAME ?= provider-opentelekomcloud
 PROJECT_REPO ?= github.com/persimmonboy-org/$(PROJECT_NAME)
